@@ -1,0 +1,1 @@
+We are looking for a backend developer with expertise in Python, Django, REST APIs, and SQL. Familiarity with Git, unit testing, and OOP concepts is a must. Experience with Flask is a plus.
